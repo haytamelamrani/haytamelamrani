@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haytam elamrani</h1>
 <h3 align="center">A passionate fullstack developer from Morocco with a strong interest in AI.</h3>
-<img align="right" alt="Coding" width="400" src="https://pixeljeff.tumblr.com/image/622311016403009536">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haytamelamrani&label=Profile%20views&color=0e75b6&style=flat" alt="haytamelamrani" /> </p>
 
